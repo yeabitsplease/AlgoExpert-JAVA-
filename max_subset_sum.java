@@ -1,4 +1,8 @@
 // KADANE'S ALOGORITHM
+
+/* Write an efficient program to find the sum of contiguous subarray within
+a one-dimensional array of numbers which has the largest sum.
+*/
 import java.util.*;
 public class max_subset_sum {
     public static void main(String args[]){
