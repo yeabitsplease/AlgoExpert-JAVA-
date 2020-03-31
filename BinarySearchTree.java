@@ -1,3 +1,11 @@
+/*
+Create a Binary Search Tree.
+Add 50,25,15,45,75,65,85 to it.
+
+*/
+
+
+
 public class BinarySearchTree {
     
 
@@ -68,16 +76,16 @@ public class BinarySearchTree {
         /* Let us create following BST 
               50 
            /     \ 
-          30      70 
+          25      75
          /  \    /  \ 
-       20   40  60   80 */
+       15   45  65   85 */
         tree.insert(50); 
-        tree.insert(30); 
-        tree.insert(20); 
-        tree.insert(40); 
-        tree.insert(70); 
-        tree.insert(60); 
-        tree.insert(80); 
+        tree.insert(25); 
+        tree.insert(15); 
+        tree.insert(45); 
+        tree.insert(75); 
+        tree.insert(65); 
+        tree.insert(85); 
   
       
   } 
