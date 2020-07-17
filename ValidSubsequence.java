@@ -1,3 +1,14 @@
+/*
+
+Given two non-empty array of integers , write a function that determines whether the second array is subsequence of first.
+
+eg:
+array: [1,2,3,4,5,6,7,8,9,10]
+subsequence: [2,5,8,10]
+
+Output: true
+
+*/
 
 public class ValidSubsequence {
 
