@@ -36,7 +36,7 @@ class GroupAnagrams{
 		return result;
 	}
 	
-	/* SECOND WAY TO DO THIS QUESTION */
+	/* SECOND WAY TO DO THIS QUESTION  */
 	
 	 public static List<List<String>> groupAnagrams(List<String> words) {
     Map<String, List<String>> anagrams=new HashMap<String, List<String>>();
